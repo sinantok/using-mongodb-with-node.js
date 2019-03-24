@@ -4,7 +4,7 @@ Bu uygulama NoSQL mantığında çalışan MongoDB'nin Node.JS ile beraber kulla
 
 ## Gereksinimler
 
-Terminal üzerinden `npm install express-generator-g`  komutu ile express global olarak kurulmalıdır. Daha sonra tüm bağımlılıkları çalıştırarak yüklemelisiniz. Package.json dosyası içerisindeki  bağımlılıklar `npm install` komutu ile kurulur. 
+Terminal üzerinden `npm install express-generator-g`  komutu ile express global olarak kurulabilir. Daha sonra tüm bağımlılıkları çalıştırarak yüklemelisiniz. Package.json dosyası içerisindeki  bağımlılıklar `npm install` komutu ile kurulur. 
 MongoDB'nin local host'ta çalışabilmesi içinde bilgisayarınızın işletim sistemine göre MongoDB kurulmalıdır.
 [Buradan ulaşabilirsiniz.](https://www.mongodb.com/download-center/community)
 Ayrıca MongoDb için grafik arayüzü sağlayan bir uygulama olarak Robomongo'yu öneririm. [Buradan ulaşabilirsiniz](https://robomongo.org/download) 
